@@ -5,8 +5,19 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "splash": { "backgroundColor": "#1F3A5F" },
-    "ios": { "supportsTablet": false },
-    "android": { "package": "com.properactical.pustakbhandar" }
+    "splash": {
+      "backgroundColor": "#1F3A5F"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.properactical.pustakbhandar"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "63d9ee1f-2dac-4f2f-93c2-fe13e8b83a6c"
+      }
+    }
   }
 }
