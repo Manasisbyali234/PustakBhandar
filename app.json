@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Pustak Bhandar",
+    "slug": "pustak-bhandar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#1F3A5F" },
+    "ios": { "supportsTablet": false },
+    "android": { "package": "com.properactical.pustakbhandar" }
+  }
+}
